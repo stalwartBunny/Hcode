@@ -1,4 +1,5 @@
 def changeMaker():
+    #this is an approximate answer based on what I remember the problem asking for
     cost = int(input("Please input the price of item in cents: (for example, 5, 75, 125, 1000)"))
     paid = int(input("Please input the total paid in cents: (for example, 5, 75, 125, 1000)"))
 
